@@ -1,4 +1,4 @@
-# SeparateListProlog
+# SeparateList
 Linguagem: Prolog
 
 The function separa is a recursive function that receives three lists (X, Y, Z) and one element (W). We determine the first list X, and the element W.
